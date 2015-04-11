@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoleTracker</string>
+    <string name="title_activity_maps">Hole Tracker</string>
+    <string name="action_view">My Marker</string>
+    <string name="action_map">Add Marker</string>
+    <string name="action_share">Share</string>
+</resources>
